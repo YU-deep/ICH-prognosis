@@ -2,6 +2,13 @@
 
 ## Updates
 - (3/11/2023) Version 1.0
+- (28/2/2024) Version 1.1 Add paper admission information
+
+## Title
+ICHPRO: INTRACEREBRAL HEMORRHAGE PROGNOSIS CLASSIFICATION VIA JOINT-ATTENTION FUSION-BASED 3D CROSS-MODAL NETWORK
+
+## Accepted 
+ISBI 2024
 
 ## Authors
 

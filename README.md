@@ -33,7 +33,7 @@ we use two NVIDIA HGX A100 Tensor Core GPUs for training and evaluation.
 
 ## Usages
 
-As you can see, we provide source code and annotation, you could easily use it just after you change according configuration according to your task. Also, each part of our structure is in our source code you can find.
+As you can see, we provide source code and annotation, you could easily use it just after you change necessary configuration according to your task. Also, each part of our structure is in our source code you can find.
 
 
 

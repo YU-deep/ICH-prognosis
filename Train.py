@@ -20,7 +20,7 @@ def prepare_to_train_net(batch_size, epochs, learning_rate, use_gpu, gpu_id, vis
     else:
         vision_encoder = get_Vision_Encoder()
     text_trt = Text_Representation_Transformation(64,128,32,32,3)
-    vision_trt = Vision_treatment_Net()
+    vision_trt = Vision_treatment_Net(512, 128, 128)
     cross_atten = Cross_Modal_Attention_Fusion(parameters[0] , parameters[1], 1 ,256,[256,256,256])
     self_atten = Multi_Head_Self_Attention_Fusion(16, parameters[3], parameters[4], 0)
     if classification_pre ==True:

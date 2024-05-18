@@ -35,7 +35,15 @@ we use two NVIDIA HGX A100 Tensor Core GPUs for training and evaluation.
 
 As you can see, we provide source code and annotation, you could easily use it just after you change necessary configuration according to your task. Also, each part of our structure is in our source code you can find.
 
-
+## Citation
+```
+@article{yu2024ichpro,
+  title={ICHPro: Intracerebral Hemorrhage Prognosis Classification Via Joint-attention Fusion-based 3d Cross-modal Network},
+  author={Yu, Xinlei and Li, Xinyang and Ge, Ruiquan and Wu, Shibin and Elazab, Ahmed and Zhu, Jichao and Zhang, Lingyan and Jia, Gangyong and Xu, Taosheng and Wan, Xiang and others},
+  journal={arXiv preprint arXiv:2402.11307},
+  year={2024}
+}
+```
 
 
 

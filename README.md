@@ -37,12 +37,16 @@ As you can see, we provide source code and annotation, you could easily use it j
 
 ## Citation
 ```
-@article{yu2024ichpro,
-  title={ICHPro: Intracerebral Hemorrhage Prognosis Classification Via Joint-attention Fusion-based 3d Cross-modal Network},
-  author={Yu, Xinlei and Li, Xinyang and Ge, Ruiquan and Wu, Shibin and Elazab, Ahmed and Zhu, Jichao and Zhang, Lingyan and Jia, Gangyong and Xu, Taosheng and Wan, Xiang and others},
-  journal={arXiv preprint arXiv:2402.11307},
-  year={2024}
-}
+@INPROCEEDINGS{10635317,
+  author={Yu, Xinlei and Li, Xinyang and Ge, Ruiquan and Wu, Shibin and Elazab, Ahmed and Zhu, Jichao and Zhang, Lingyan and Jia, Gangyong and Xu, Taosheng and Wan, Xiang and Wang, Changmiao},
+  booktitle={2024 IEEE International Symposium on Biomedical Imaging (ISBI)}, 
+  title={ICHPro: Intracerebral Hemorrhage Prognosis Classification via Joint-Attention Fusion-Based 3D Cross-Modal Network}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-5},
+  keywords={Three-dimensional displays;Accuracy;Fuses;Computed tomography;Feature extraction;Prognostics and health management;Task analysis;Joint-attention mechanism;Cross-modal fusion;Demographic and clinical text;ICH prognosis},
+  doi={10.1109/ISBI56570.2024.10635317}}
 ```
 
 
